@@ -1,0 +1,17 @@
+h1 {color: teal;}
+strong {color: red;}
+td strong {color: orange;}
+span[class=destacado] {color: orange}
+h2 {color: blue}
+a {color: red;}
+a em {color: blue;}
+caption {color: blue;}
+th {color: red;}
+th[class] {color: orange;}{color: black;}
+td {color: green;}
+span[class=especial] {color: fuchsia;}
+div[id=adicional] {color: olive;}
+div > p > a {color: green;}
+span[id=especial] {color: fuchsia;}
+body {margin: 20px 355px 0px 340px;}
+body {text-align: justify;}
