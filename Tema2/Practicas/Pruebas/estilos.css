@@ -1,13 +1,12 @@
+
 body {
   text-align: center;
-  width: 100%;
-  background-color: lightgrey
+  background-color: lightgrey;
+  width: 99%;
 }
 table {
-  background-color: lightgrey;
-  border-spacing: 20px 0px;
+  float: left;
   font-family: Arial;
-  margin: 0 auto;
 }
 tr.cabeza {
   background-color: #FF6347;
@@ -64,4 +63,10 @@ button {
 td.boton {
   padding-top: 40px;
   padding-bottom: 40px;
+}
+table.uno,table.dos,table.tres {
+  border-spacing: 20px 0px;
+}
+table.uno {
+  margin-left:80px;
 }
