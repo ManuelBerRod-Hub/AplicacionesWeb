@@ -1,0 +1,65 @@
+body {
+  background-image: url(Cielo.jpg);
+  background-repeat: no-repeat;
+  background-size: 98.8% 100%;
+  border:15px solid blue;
+  background-position: center;
+}
+
+div.cabecera {
+  float: left;
+  color: white;
+}
+
+div.imagen {
+  float: right;
+}
+
+span {
+  text-align: center;
+}
+
+p.nombre {
+  font-size: 40px;
+  color: white;
+}
+
+span.apellidos {
+  font-weight: bold;
+}
+
+div.Redes {
+  float: left;
+  padding: 100px;
+  color: white;
+}
+img.foto {
+  width: 280px;
+  border: 15px solid white
+}
+img.logo {
+  width: 30px
+}
+div.datos {
+  background-color: white;
+  float:left;
+  margin-top: 100px
+}
+table.datos {
+  background-color: white
+}
+td.educacion {
+  padding: 200px;
+  font-size: 50px;
+}
+span.work {
+  color: white;
+  background-color: blue;
+  font-size: 30px;
+}
+p.uno {color:blue;
+  font-size: 30px
+}
+p {
+  text-align: center;
+}
