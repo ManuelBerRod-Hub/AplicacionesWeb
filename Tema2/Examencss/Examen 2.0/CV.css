@@ -1,0 +1,81 @@
+body {
+  margin: 30px;
+  background-color: #00008B;
+}
+table.Cabecera {
+  background-image: url(Cielo.jpg);
+  width: 100%;
+  background-size: cover;
+}
+img.logo {
+  height: 40px;
+}
+img.foto {
+  height: 200px;
+  margin-right: 70px;
+  border: 10px solid white;
+}
+p.Link {
+  text-align: right;
+  color: white;
+  text-decoration: none;
+}
+td.logos {
+  text-align: center;
+  color: white;
+  width: 50%;
+}
+td.link {
+  width: 50%;
+  padding: 20px;
+}
+p.nombre {
+  font-size: 40px;
+  color: white;
+}
+span.apellidos {
+  font-weight: bold;
+}
+span.letra {
+  color: grey;
+}
+p {
+  color: white;
+}
+td.link p {
+  text-align: left;
+}
+span.work {
+  border-style: solid;
+  border-color: #000080;
+  background-color: #000080;
+  color: white;
+  font-size: 50px;
+}
+table.datos {
+  background-color: white;
+}
+td.Work {
+  padding: 30px;
+  width: 50%;
+}
+p.uno {
+  color: blue;
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+p.dos {
+  color: #000080;
+  font-size: 30px;
+  margin-top: 0px;
+}
+span.fechas {
+  font-size: 15px;
+  color: white;
+  border-style: solid;
+  border-color: #1E90FF;
+  background-color: #1E90FF;
+  border-radius: 5px;
+  border: 2px solid grey;
+  margin-left: 200px;
+}
