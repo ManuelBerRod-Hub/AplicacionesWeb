@@ -1,0 +1,45 @@
+body {
+  background-image: url(img/tablon.png);
+  background-repeat: no-repeat;
+}
+table.cabecera {
+  width: 100%;
+  background-image:url(img/fondo.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+}
+td.cabecera {
+  width: 50%;
+  text-align: center;
+}
+.logo {
+  height: 150px;
+  margin-left: 30%
+}
+h1 {
+  text-decoration: overline underline;
+  text-decoration-color: brown;
+  text-decoration-style: dashed;
+  font-size: 350%;
+}
+td.eslogan {
+  font-family: Brush Script MT;
+  font-size: 100px;
+}
+table.cuerpo {
+  width: 100%;
+}
+td.center {
+  width: 65%;
+  text-align: center;
+}
+h2.titulo {
+  margin-left: 20%;
+  font-family:Brush Script MT;
+  font-size: 50px;margin-right: 25%
+}
+p {margin-left: 10%;
+  margin-right: 10%;
+}
+td.enlaces {text-align: center;}
