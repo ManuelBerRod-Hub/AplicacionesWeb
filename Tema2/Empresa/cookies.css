@@ -1,0 +1,143 @@
+body {
+  background-image: url(img/tablon.png);
+  background-repeat: no-repeat;
+  width: 1350px; margin:0px 0px 0px 0px;
+}
+table.cabecera {
+  width: 100%;
+  background-image:url(img/fondo.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+}
+td.cabecera {
+  width: 50%;
+  text-align: center;
+}
+.logo {
+  height: 150px;
+  margin-left: 30%
+}
+h1 {
+  text-decoration: overline underline;
+  text-decoration-color: brown;
+  text-decoration-style: dashed;
+  font-size: 350%;
+}
+td.eslogan {
+  font-family: Brush Script MT;
+  font-size: 100px;
+}
+table.cuerpo {
+  width: 100%;
+}
+td.center {
+  width: 65%;
+  text-align: center;
+}
+h2.titulo {
+  margin-left: 20%;
+  font-family:Brush Script MT;
+  font-size: 50px;margin-right: 25%
+}
+p {margin-left: 10%;
+  margin-right: 10%;
+}
+td.enlaces {text-align: center;}
+
+.button{
+	padding:10px 15px;
+	border:1px solid #ff0064;
+	border-radius:5px;
+	background-color:#402D12;
+
+	color:#fff;
+	text-decoration:none;
+	text-transform:uppercase;
+	text-align:center;
+
+	box-shadow:1px 1px 1px #000;
+
+	display:inline-block;
+
+}
+
+.button:hover{
+	cursor:pointer;
+}
+
+.button:active{
+	box-shadow:2px 2px 1px #000;
+}
+
+.button2{
+	padding:10px 15px;
+	border:1px solid #ff0064;
+	border-radius:5px;
+	background-color:#E29321;
+
+	color:#fff;
+	text-decoration:none;
+	text-transform:uppercase;
+	text-align:center;
+
+	box-shadow:1px 1px 1px #000;
+
+	display:inline-block;
+
+}
+
+.button2:hover{
+	cursor:pointer;
+}
+
+.button2:active{
+	box-shadow:2px 2px 1px #000;
+}
+
+.button3{
+	padding:10px 15px;
+	border:1px solid #ff0064;
+	border-radius:5px;
+	background-color:#B97F2C;
+
+	color:#fff;
+	text-decoration:none;
+	text-transform:uppercase;
+	text-align:center;
+
+	box-shadow:1px 1px 1px #000;
+
+	display:inline-block;
+
+}
+
+.button3:hover{
+	cursor:pointer;
+}
+
+.button3:active{
+	box-shadow:2px 2px 1px #000;
+}
+
+.enlaces{
+  margin-top: 50px;
+	padding:10px 15px;
+	border:1px solid #ff0064;
+	border-radius:5px;
+	background-color:#ff0064;
+
+	color:#fff;
+	text-decoration:none;
+	text-transform:uppercase;
+	text-align:center;
+
+	box-shadow:1px 1px 1px #000;
+
+	display:inline-block;
+
+}
+
+.enlaces:active{
+	box-shadow:2px 2px 1px #000;
+}

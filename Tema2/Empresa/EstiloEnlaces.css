@@ -1,0 +1,11 @@
+body {background-image: url(img/tablon0.png);background-repeat: no-repeat;background-size: 100%;  width: 1350px; margin:0px 0px 0px 0px;
+}
+h1 {
+  text-align: center;
+  font-family:Brush Script MT;
+  font-size: 200%;
+}
+table {width: 100%;}
+img {height: 50%;}
+p {margin-right: 20%}
+span {font-family: fantasy;}
