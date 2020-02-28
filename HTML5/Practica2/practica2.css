@@ -1,0 +1,50 @@
+header {
+  background-color: grey;
+  border: 1px solid grey;
+  color: white;
+  font-family: arial black;
+  padding-left: 10px;
+  font-size: 11px;
+}
+
+nav {
+  border: 1px solid grey;
+  padding: 10px;
+  font-family: arial;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  font-size: 11px;
+}
+
+h2 {font-size: 16px;
+    font-family: arial black;
+  }
+
+p {font-size: 11px;
+  }
+
+article {border: 1px solid grey;
+  padding-left: 5px;
+  font-family: arial;
+}
+
+section {border: 1px solid grey;
+  margin: 4px;
+  padding-left: 8px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+section.uno {
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: grey;
+  border: 1px solid grey;
+  color: white;
+  font-family: arial;
+  padding: 10px;
+  margin-top: 3px;
+  font-size: 11px;
+}
